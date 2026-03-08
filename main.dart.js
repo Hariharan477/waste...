@@ -81011,7 +81011,7 @@ if(J.cJ(e)===0||J.cJ(d)===0){m.adu("Please enter email and password")
 s=1
 break}m.aq(new A.aiq(m))
 p=4
-i=A.ht("http://localhost:3000/api/auth/login")
+i=A.ht("https://alumiest-backend.onrender.com/api/auth/login")
 h=t.N
 g=A.an(["Content-Type","application/json"],h,h)
 s=7
